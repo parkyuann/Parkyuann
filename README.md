@@ -41,7 +41,7 @@
     <td>
       이벤트 로그 기반 패스 좌표 예측 및 공간 패턴 분석
       <br>
-      <a href="https://github.com/Parkyuann/kleague-pass-direction">
+      <a href="https://github.com/Parkyuann/kleague-pass-prediction">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
       </a>
