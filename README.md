@@ -47,6 +47,8 @@
 
   <br>
   <br>
+  <br>
+  <br>
   <hr style="background-color: #30363d; height: 1px; border: none;">
   <h3>📫 Contact</h3>
   <a href="mailto:leo9911234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
