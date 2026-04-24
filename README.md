@@ -11,7 +11,6 @@
     수백만 건의 대규모 데이터를 전처리하여 실제 서비스에 배포한 경험과 시계열 데이터의 특성을 반영한 시퀀스 모델링 경험을 바탕으로, 실질적인 비즈니스 가치를 창출하는 데 집중합니다.
   </div>
 
-  <br>
   <hr style="background-color: #30363d; height: 1px; border: none;">
   <h3>🛠 Stacks</h3>
   
@@ -31,20 +30,36 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   
-  <br><br>
+  <br>
   <hr style="background-color: #30363d; height: 1px; border: none;">
-  <h3>📁 My Projects</h3>
-  <table align="Left">
-    <tr>
-      <td><b>K-League Final Pass Prediction</b></td>
-      <td>이벤트 로그 기반 패스 좌표 예측 및 공간 패턴 분석</td>
-    </tr>
-    <tr>
-      <td><b>Recommendation System</b></td>
-      <td>셋톱박스 사용자 로그 데이터를 바탕으로 OTT 서비스로 확장</td>
-    </tr>
-  </table>
-
+<h3>📁 My Projects</h3>
+<table align="left" width="100%">
+  <tr>
+    <td align="center" width="200px">
+      <b>K-League Final Pass Prediction</b>
+    </td>
+    <td>
+      이벤트 로그 기반 패스 좌표 예측 및 공간 패턴 분석
+      <br>
+      <a href="https://github.com/Parkyuann/kleague-pass-direction">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Recommendation System</b>
+    </td>
+    <td>
+      셋톱박스 사용자 로그 데이터를 바탕으로 한 OTT 추천 서비스 개발
+      <br>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+  <br>
   <br>
   <br>
   <br>
