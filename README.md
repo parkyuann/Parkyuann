@@ -54,6 +54,7 @@
     <td>
       셋톱박스 사용자 로그 데이터를 바탕으로 한 OTT 추천 서비스 개발
       <br>
+      <a href="https://github.com/Parkyuann/Recommendation">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
