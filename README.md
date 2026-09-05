@@ -1,72 +1,74 @@
-<div align="left">
-  <h1>안녕하세요, AI Engineer 박유안입니다. 👋</h1>
+<div align="Left">
+  <h1>안녕하세요, 데이터 분석가 박유안입니다. 👋</h1>
 
-  <p>
-    자연어 처리와 검색 기술을 바탕으로, 신뢰할 수 있는 근거를 제시하는 AI 시스템을 만듭니다.<br>
-    모델의 응답을 그대로 사용하는 데서 멈추지 않고, 검색·외부 데이터 API·검증 로직을 연결해
-    사용자가 결과의 근거를 확인할 수 있는 서비스 설계에 집중합니다.
-  </p>
+  <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9; width: 75%; padding: 0 80px; line-height: 1.8;">
+    "설득하기 위해 원인과 근거를 밝혀내는 데이터 분석가"
+    <br><br>
+    데이터 분석의 목적은 결국 누군가의 판단을 바꾸거나 결정을 이끌어내는 것이라고 생각합니다. <br>
+    그러기 위해선 "무엇이 일어났는가"보다 "왜 그런 일이 일어났는가"를 설명할 수 있어야 한다고 믿습니다.
+    그래서 성능 지표보다 실패 원인을, 패턴보다 그 패턴이 만들어진 이유를 찾는 데에 집중합니다. 
+    <br><br>
+    원인을 밝히는 것에서 나아가 그 원인을 해결하는 솔루션이 실제로 효과가 있었는지까지 데이터로 검증하는 분석가로 성장하고자 합니다.
+    
+    
+  </div>
 
-  <p>
-    임베딩 기반 검색, RAG, 백엔드 API, 데이터 파이프라인을 구현하며
-    AI 기능을 실제 제품 흐름으로 연결하는 엔지니어로 성장하고 있습니다.
-  </p>
-
-  <hr>
-
-  <h3>🛠 Tech Stack</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white" alt="Qdrant">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </p>
-
-  <hr>
-
-  <h3>📁 Projects</h3>
-
-  <table width="100%">
-    <tr>
-      <td align="center" width="230px"><b>AI 뉴스 사실검증 시스템</b><br><sub>진행 중</sub></td>
-      <td>
-        뉴스의 수치 주장을 구조화하고, 관련 KOSIS 통계표를 검색한 뒤 공식 API의 통계 셀과 대조하는 RAG 기반 사실검증 시스템을 개발하고 있습니다.
-        <br>
-        BGE-M3·Qdrant·BM25/RRF를 활용한 검색과 FastAPI·React 기반 서비스 연동을 구현하며, 현재 개발·shadow 평가를 진행 중입니다.
-        <br>
-        <a href="https://github.com/parkyuann/likelion5">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>Recommendation System</b></td>
-      <td>
-        셋톱박스 사용자 로그를 바탕으로 사용자의 시청 선호를 반영하는 OTT 추천 서비스를 개발했습니다.
-        <br>
-        <a href="https://github.com/parkyuann/Recommendation">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>K-League Final Pass Prediction</b></td>
-      <td>
-        이벤트 로그 기반으로 패스 좌표를 예측하고 공간 패턴을 분석한 머신러닝 프로젝트입니다.
-        <br>
-        <a href="https://github.com/parkyuann/kleague-pass-prediction">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <hr>
-
+  <hr style="background-color: #30363d; height: 1px; border: none;">
+  <h3>🛠 Stacks</h3>
+  
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  
+  <br>
+  <hr style="background-color: #30363d; height: 1px; border: none;">
+<h3>📁 My Projects</h3>
+<table align="left" width="100%">
+  <tr>
+    <td align="center" width="200px">
+      <b>K-League Final Pass Prediction</b>
+    </td>
+    <td>
+      이벤트 로그 기반 패스 좌표 예측 및 공간 패턴 분석
+      <br>
+      <a href="https://github.com/Parkyuann/kleague-pass-prediction">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Recommendation System</b>
+    </td>
+    <td>
+      셋톱박스 사용자 로그 데이터를 바탕으로 한 OTT 추천 서비스 개발
+      <br>
+      <a href="https://github.com/Parkyuann/Recommendation">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <hr style="background-color: #30363d; height: 1px; border: none;">
   <h3>📫 Contact</h3>
-  <a href="mailto:leo9911234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:leo9911234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
