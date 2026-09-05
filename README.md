@@ -1,8 +1,8 @@
 <div align="Left">
-  <h1>안녕하세요, 데이터 분석가 박유안입니다. 👋</h1>
+  <h1>안녕하세요, AI Engineer 박유안입니다. 👋</h1>
 
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9; width: 75%; padding: 0 80px; line-height: 1.8;">
-    "설득하기 위해 원인과 근거를 밝혀내는 데이터 분석가"
+    "근본적인 원인을 찾아 문제를 해결하고 Task에 맞는 파이프라인을 설계하는 AI Engineer"
     <br><br>
     데이터 분석의 목적은 결국 누군가의 판단을 바꾸거나 결정을 이끌어내는 것이라고 생각합니다. <br>
     그러기 위해선 "무엇이 일어났는가"보다 "왜 그런 일이 일어났는가"를 설명할 수 있어야 한다고 믿습니다.
